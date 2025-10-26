@@ -35,9 +35,6 @@ format:
     papersize: a4
     fontsize: 12pt
     linestretch: 1.5
-#### Language
-    babel-lang: russian
-    babel-otherlangs: english
 #### Biblatex
     cite-method: biblatex
     # biblio-style: gost-numeric
